@@ -1,0 +1,32 @@
+.important{
+    color:aqua;
+    font-size: 15px;
+    
+}
+.red{
+    width:100px;
+    height: 100px;
+    background-color: red;
+    margin:5px;
+    display:inline-block;
+    border-style: solid;
+    border-color:darkorange;
+}
+.green{
+    width:100px;
+    height: 100px;
+    background-color: green;
+    margin:5px;
+    display: inline-block;
+    border-style: solid;
+    border-color: cornflowerblue;
+}
+.blue{
+    width:100px;
+    height: 100px;
+    background-color: blue;
+    margin:5px;
+    display: inline-block;
+    border-style: solid;
+    border-color: limegreen;
+}
